@@ -42,7 +42,7 @@ task/
 screenshots of project
 [Crop Production Extremes]
 ![img_alt](https://github.com/katiyarshreyjal/SDE_TASK/blob/main/Screenshot%20(605).png?raw=true)
-![img_alt]()
+![img_alt](https://github.com/katiyarshreyjal/SDE_TASK/blob/f53e7c9d2a5b0cdb85c76d514f4d5ebc85c8b63c/Screenshot%20(606).png)
 ![img_alt]()
 
 [BAR CHART]
