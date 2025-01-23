@@ -46,7 +46,7 @@ screenshots of project
 ![img_alt](https://github.com/katiyarshreyjal/SDE_TASK/blob/80eecfbb6a8b907f43e38885d504bc685640dda1/Screenshot%20(607).png)
 
 [BAR CHART]
-![img_alt]()
+![img_alt](https://github.com/katiyarshreyjal/SDE_TASK/blob/c6094d679863e9c77abd92f67c59653255e09c8c/Screenshot%20(608).png)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
