@@ -48,6 +48,11 @@ screenshots of project
 [BAR CHART]
 ![img_alt](https://github.com/katiyarshreyjal/SDE_TASK/blob/c6094d679863e9c77abd92f67c59653255e09c8c/Screenshot%20(608).png)
 
+To run the project 
+npm run dev
+
+Local:   http://localhost:5173/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
