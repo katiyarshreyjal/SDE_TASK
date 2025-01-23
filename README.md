@@ -90,9 +90,7 @@ task/
   
 screenshots of project
 [Crop Production Extremes]
-(./assets/ss1.png)
-(./assets/ss2.png)
-(./assets/ss3.png)
+![img_alt](https://github.com/katiyarshreyjal/SDE_TASK/blob/main/Screenshot%20(605).png?raw=true)
 
 [BAR CHART]
 (./assets/ss4.png)-->
