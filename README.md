@@ -42,8 +42,11 @@ task/
 screenshots of project
 [Crop Production Extremes]
 ![img_alt](https://github.com/katiyarshreyjal/SDE_TASK/blob/main/Screenshot%20(605).png?raw=true)
+![img_alt]()
+![img_alt]()
 
 [BAR CHART]
+![img_alt]()
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
